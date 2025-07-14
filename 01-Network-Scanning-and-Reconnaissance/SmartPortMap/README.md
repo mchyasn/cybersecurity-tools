@@ -71,12 +71,7 @@ python3 main.py -t 192.168.1.1 -p 1-1024 -o scans/office_host.json
 # Trigger scan with unreachable target
 python3 main.py -t 10.255.255.1 -p 80,443
 ```
-
-### Phase 4: Screenshots Taken
-
-- `screenshots/scan_output_success.png`
-- `screenshots/debug_log_inspect.png`
-- `screenshots/os_guess_linux.png`
+![Smart Port Mapping Tool](https://raw.githubusercontent.com/mchyasn/cybersecurity-tools/main/01-Network-Scanning-and-Reconnaissance/SmartPortMap/screenshots/00.png)
 
 ## License
 MIT
