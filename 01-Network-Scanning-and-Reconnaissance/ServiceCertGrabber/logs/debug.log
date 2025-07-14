@@ -1,0 +1,12 @@
+2025-07-14 19:44:27,479 [ERROR] Scan failed
+Traceback (most recent call last):
+  File "/home/kali/01-Network-Scanning-and-Reconnaissance/ServiceCertGrabber/main.py", line 101, in main
+    out_path = scans_dir / f"certgrab_{target}_{port}.json"
+               ^^^^^^^^^
+NameError: name 'scans_dir' is not defined
+2025-07-14 19:45:31,609 [INFO] Scanning google.com:443
+2025-07-14 19:45:32,530 [DEBUG] Cert chain: {'target': 'google.com:443', 'timestamp': '2025-07-14T23:45:32.530765+00:00', 'ja3': 'JA3_PLACEHOLDER', 'cert_info': {'subject': ((('commonName', '*.google.com'),),), 'issuer': ((('countryName', 'US'),), (('organizationName', 'Google Trust Services'),), (('commonName', 'WR2'),)), 'notBefore': 'Jun 23 08:40:16 2025 GMT', 'notAfter': 'Sep 15 08:40:15 2025 GMT'}}
+2025-07-14 19:45:32,532 [INFO] Saved output to scans/certgrab_google.com_443_20250714_234532.json
+2025-07-14 19:46:39,198 [INFO] Scanning google.com:443
+2025-07-14 19:46:44,439 [DEBUG] Cert chain: {'target': 'google.com:443', 'timestamp': '2025-07-14T23:46:44.439789+00:00', 'ja3': 'JA3_PLACEHOLDER', 'cert_info': {'subject': ((('commonName', '*.google.com'),),), 'issuer': ((('countryName', 'US'),), (('organizationName', 'Google Trust Services'),), (('commonName', 'WR2'),)), 'notBefore': 'Jun 23 08:40:16 2025 GMT', 'notAfter': 'Sep 15 08:40:15 2025 GMT'}}
+2025-07-14 19:46:44,440 [INFO] Saved output to scans/certgrab_google.com_443_20250714_234644.json

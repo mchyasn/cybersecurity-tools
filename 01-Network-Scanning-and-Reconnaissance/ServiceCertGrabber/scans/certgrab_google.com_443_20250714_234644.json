@@ -1,0 +1,37 @@
+{
+  "target": "google.com:443",
+  "timestamp": "2025-07-14T23:46:44.439789+00:00",
+  "ja3": "JA3_PLACEHOLDER",
+  "cert_info": {
+    "subject": [
+      [
+        [
+          "commonName",
+          "*.google.com"
+        ]
+      ]
+    ],
+    "issuer": [
+      [
+        [
+          "countryName",
+          "US"
+        ]
+      ],
+      [
+        [
+          "organizationName",
+          "Google Trust Services"
+        ]
+      ],
+      [
+        [
+          "commonName",
+          "WR2"
+        ]
+      ]
+    ],
+    "notBefore": "Jun 23 08:40:16 2025 GMT",
+    "notAfter": "Sep 15 08:40:15 2025 GMT"
+  }
+}

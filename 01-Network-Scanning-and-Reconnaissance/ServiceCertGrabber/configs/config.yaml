@@ -1,0 +1,7 @@
+# ServiceCertGrabber Config Placeholder
+
+default_port: 443
+timeout: 5
+verify_cert: true
+output_format: json
+ja3_enabled: false  # Placeholder for future JA3 implementation
