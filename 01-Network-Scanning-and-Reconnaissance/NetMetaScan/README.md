@@ -111,6 +111,7 @@ example.com:22
   }
 ]
 ```
+![Network Metadata Scanner](https://raw.githubusercontent.com/mchyasn/cybersecurity-tools/main/01-Network-Scanning-and-Reconnaissance/NetMetaScan/screenshots/0.png)
 
 ### Example Log Output (logs/debug.log)
 
