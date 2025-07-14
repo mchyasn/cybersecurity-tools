@@ -82,16 +82,9 @@ python3 main.py -d scanme.nmap.org --axfr --wildcard
 # 4. Invalid domain test
 python3 main.py -d nonexist.reconx.test
 ```
-
-### Phase 5: Output Verification
-
-- `scans/scanme_nmap_org_results.json` created
-- `logs/debug.log` populated with scan metadata
-- Manual screenshots captured:
-  - `screenshots/axfr_success.png`
-  - `screenshots/brute_force_output.png`
-  - `screenshots/wildcard_detected.png`
-  - `screenshots/error_log_check.png`
+![DNS Reconnaissance Tool](https://raw.githubusercontent.com/mchyasn/cybersecurity-tools/main/01-Network-Scanning-and-Reconnaissance/DNSReconX/screenshots/0.png)
+![DNS Reconnaissance Tool](https://raw.githubusercontent.com/mchyasn/cybersecurity-tools/main/01-Network-Scanning-and-Reconnaissance/DNSReconX/screenshots/00.png)
+![DNS Reconnaissance Tool](https://raw.githubusercontent.com/mchyasn/cybersecurity-tools/main/01-Network-Scanning-and-Reconnaissance/DNSReconX/screenshots/000.png)
 
 ## License
 
