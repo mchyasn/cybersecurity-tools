@@ -75,17 +75,12 @@ python3 main.py -t fake.invalid -p 80 -o scans/invalid.json
 # Test 4: Banner grabbing
 python3 main.py -t scanme.nmap.org -p 22 -b -o scans/banner_grab.json
 ```
-
+![Turbo Network Scanner](https://raw.githubusercontent.com/mchyasn/cybersecurity-tools/main/01-Network-Scanning-and-Reconnaissance/TurboScan/screenshots/0.png)
+```
 * All outputs saved in `scans/`.
 * Logging verified in `logs/debug.log` (empty if no warnings/errors).
 * All tests passed successfully.
-
-### Phase 4: Screenshots
-
-* `screenshots/single_target_success.png`
-* `screenshots/banner_grab_output.png`
-* `screenshots/invalid_host_error.png`
-
+```
 ## License
 
 MIT
