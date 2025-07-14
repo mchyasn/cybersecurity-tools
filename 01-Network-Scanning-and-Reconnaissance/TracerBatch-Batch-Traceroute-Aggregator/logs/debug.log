@@ -1,0 +1,15 @@
+2025-07-14 13:47:15,456 - INFO - Starting traceroute for: scanme.nmap.org
+2025-07-14 13:47:45,478 - ERROR - Error running traceroute on scanme.nmap.org: Command '['traceroute', 'scanme.nmap.org']' timed out after 30 seconds
+2025-07-14 13:47:45,597 - INFO - Starting traceroute for: google.com
+2025-07-14 13:48:15,613 - ERROR - Error running traceroute on google.com: Command '['traceroute', 'google.com']' timed out after 30 seconds
+2025-07-14 13:48:15,613 - INFO - Starting traceroute for: cloudflare.com
+2025-07-14 13:48:42,330 - INFO - Starting traceroute for: scanme.nmap.org
+2025-07-14 13:49:12,349 - ERROR - Error running traceroute on scanme.nmap.org: Command '['traceroute', 'scanme.nmap.org']' timed out after 30 seconds
+2025-07-14 13:49:21,030 - INFO - Starting traceroute for: google.com
+2025-07-14 13:49:51,047 - ERROR - Error running traceroute on google.com: Command '['traceroute', 'google.com']' timed out after 30 seconds
+2025-07-14 13:49:51,048 - INFO - Starting traceroute for: cloudflare.com
+2025-07-14 13:50:21,067 - ERROR - Error running traceroute on cloudflare.com: Command '['traceroute', 'cloudflare.com']' timed out after 30 seconds
+2025-07-14 13:50:21,067 - INFO - Starting traceroute for: github.com
+2025-07-14 13:50:51,071 - ERROR - Error running traceroute on github.com: Command '['traceroute', 'github.com']' timed out after 30 seconds
+2025-07-14 13:52:24,650 - INFO - Starting traceroute for: invalid.domain.fake
+2025-07-14 13:52:24,721 - INFO - Traceroute for invalid.domain.fake completed.

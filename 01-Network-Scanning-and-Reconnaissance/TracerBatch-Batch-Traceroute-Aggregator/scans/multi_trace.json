@@ -1,0 +1,11 @@
+{
+  "google.com": [
+    "Error: Could not complete traceroute"
+  ],
+  "cloudflare.com": [
+    "Error: Could not complete traceroute"
+  ],
+  "github.com": [
+    "Error: Could not complete traceroute"
+  ]
+}
