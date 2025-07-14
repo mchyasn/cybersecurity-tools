@@ -60,6 +60,6 @@ python3 main.py -t invalid.domain.fake -o scans/bad_trace.json
 - All tests passed
 
 ### Phase 4: Screenshots Taken
-- screenshots/single_target_trace.png
-- screenshots/multi_target_trace.png
-- screenshots/error_trace_invalid_domain.png
+![Network Path Tracer](https://raw.githubusercontent.com/mchyasn/cybersecurity-tools/main/01-Network-Scanning-and-Reconnaissance/NetPath-Tracer/screenshots/0.png)
+![Network Path Tracer](https://raw.githubusercontent.com/mchyasn/cybersecurity-tools/main/01-Network-Scanning-and-Reconnaissance/NetPath-Tracer/screenshots/1.png)
+![Network Path Tracer](https://raw.githubusercontent.com/mchyasn/cybersecurity-tools/main/01-Network-Scanning-and-Reconnaissance/NetPath-Tracer/screenshots/2.png)
