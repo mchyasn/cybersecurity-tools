@@ -1,0 +1,8 @@
+# Placeholder config
+# configs/config.yaml
+icmp_timeout: 1.0
+tcp_timeout: 0.8
+rate: 100
+stealth: true
+smartport_enabled: true
+smartport_path: ./smart_port_map.py
