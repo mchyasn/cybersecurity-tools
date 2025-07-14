@@ -1,0 +1,31 @@
+{
+  "domain": "google.com",
+  "timestamp": "2025-07-14T18:33:25.624606+00:00",
+  "records": {
+    "A": [
+      "<ares_query_a_result> host=142.250.200.142, ttl=5"
+    ],
+    "AAAA": [
+      "<ares_query_aaaa_result> host=2a00:1450:4003:80f::200e, ttl=5"
+    ],
+    "MX": [
+      "<ares_query_mx_result> host=smtp.google.com, priority=10, ttl=-1"
+    ],
+    "NS": [
+      "<ares_query_ns_result> host=ns2.google.com, ttl=-1",
+      "<ares_query_ns_result> host=ns4.google.com, ttl=-1",
+      "<ares_query_ns_result> host=ns3.google.com, ttl=-1",
+      "<ares_query_ns_result> host=ns1.google.com, ttl=-1"
+    ],
+    "TXT": [
+      "<ares_query_txt_result> text=docusign=05958488-4752-4ef2-95eb-aa7ba8a3bd0e, ttl=-1",
+      "<ares_query_txt_result> text=v=spf1 include:_spf.google.com ~all, ttl=-1",
+      "<ares_query_txt_result> text=apple-domain-verification=30afIBcvSuDV2PLX, ttl=-1",
+      "<ares_query_txt_result> text=MS=E4A68B9AB2BB9670BCE15412F62916164C0B20BB, ttl=-1",
+      "<ares_query_txt_result> text=google-site-verification=wD8N7i1JTNTkezJ49swvWW48f8_9xveREV4oB-0Hf5o, ttl=-1",
+      "<ares_query_txt_result> text=google-site-verification=4ibFUgB-wXLQ_S7vsXVomSTVamuOXBiVAzpR5IZ87D0, ttl=-1",
+      "<ares_query_txt_result> text=google-site-verification=TV9-DBe4R80X4v0M4U_bd_J9cpOJM0nikft0jAgjmsQ, ttl=-1"
+    ],
+    "CNAME": []
+  }
+}

@@ -1,0 +1,22 @@
+# Placeholder config
+echo "# DNSReconX Configuration File
+
+modules:
+  axfr: true
+  brute_force: true
+  wildcard_detection: true
+  dnssec: false
+  caa_lookup: false
+  edns_support: false
+
+resolver:
+  nameservers:
+    - 8.8.8.8
+    - 1.1.1.1
+  timeout: 3
+  retries: 2
+
+bruteforce:
+  wordlist: wordlists/subdomains.txt
+  max_concurrent_queries: 50
+" > configs/dns_config.yaml

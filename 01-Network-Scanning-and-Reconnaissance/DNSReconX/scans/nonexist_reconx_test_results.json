@@ -1,0 +1,12 @@
+{
+  "domain": "nonexist.reconx.test",
+  "timestamp": "2025-07-14T18:43:28.014308+00:00",
+  "records": {
+    "A": [],
+    "AAAA": [],
+    "MX": [],
+    "NS": [],
+    "TXT": [],
+    "CNAME": []
+  }
+}

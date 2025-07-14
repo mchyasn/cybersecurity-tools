@@ -1,0 +1,60 @@
+2025-07-14 14:25:47,654 [WARNING] Failed to resolve CNAME for example.com: (1, 'DNS server returned answer with no data')
+2025-07-14 14:25:47,655 [INFO] Results saved to scans/example_com_results.json
+2025-07-14 14:26:05,087 [WARNING] Failed to resolve CNAME for google.com: (1, 'DNS server returned answer with no data')
+2025-07-14 14:26:05,126 [INFO] Results saved to scans/google_com_results.json
+2025-07-14 14:28:43,962 [WARNING] CNAME query failed for example.com: (1, 'DNS server returned answer with no data')
+2025-07-14 14:28:43,962 [INFO] Results written to scans/example_com_results.json
+2025-07-14 14:28:52,743 [WARNING] CNAME query failed for google.com: (1, 'DNS server returned answer with no data')
+2025-07-14 14:28:52,745 [INFO] Results written to scans/google_com_results.json
+2025-07-14 14:30:48,673 [WARNING] CNAME query failed for google.com: (1, 'DNS server returned answer with no data')
+2025-07-14 14:30:48,674 [INFO] Results written to scans/google_com_results.json
+2025-07-14 14:30:54,377 [WARNING] CNAME query failed for example.com: (1, 'DNS server returned answer with no data')
+2025-07-14 14:30:54,379 [INFO] Results written to scans/example_com_results.json
+2025-07-14 14:33:20,535 [WARNING] CNAME query failed for example.com: (1, 'DNS server returned answer with no data')
+2025-07-14 14:33:20,537 [INFO] Results written to scans/example_com_results.json
+2025-07-14 14:33:25,666 [WARNING] CNAME query failed for google.com: (1, 'DNS server returned answer with no data')
+2025-07-14 14:33:25,679 [INFO] Results written to scans/google_com_results.json
+2025-07-14 14:41:43,580 [WARNING] CNAME query failed for scanme.nmap.org: (1, 'DNS server returned answer with no data')
+2025-07-14 14:41:43,580 [WARNING] MX query failed for scanme.nmap.org: (1, 'DNS server returned answer with no data')
+2025-07-14 14:41:43,584 [WARNING] NS query failed for scanme.nmap.org: (1, 'DNS server returned answer with no data')
+2025-07-14 14:41:43,652 [WARNING] TXT query failed for scanme.nmap.org: (1, 'DNS server returned answer with no data')
+2025-07-14 14:41:43,652 [INFO] Results written to scans/scanme_nmap_org_results.json
+2025-07-14 14:41:53,605 [WARNING] MX query failed for scanme.nmap.org: (1, 'DNS server returned answer with no data')
+2025-07-14 14:41:53,607 [WARNING] TXT query failed for scanme.nmap.org: (1, 'DNS server returned answer with no data')
+2025-07-14 14:41:53,613 [WARNING] NS query failed for scanme.nmap.org: (1, 'DNS server returned answer with no data')
+2025-07-14 14:41:53,614 [WARNING] CNAME query failed for scanme.nmap.org: (1, 'DNS server returned answer with no data')
+2025-07-14 14:41:53,696 [WARNING] A query failed for test.scanme.nmap.org: (4, 'Domain name not found')
+2025-07-14 14:41:53,696 [WARNING] A query failed for ns2.scanme.nmap.org: (4, 'Domain name not found')
+2025-07-14 14:41:53,699 [WARNING] A query failed for ns1.scanme.nmap.org: (4, 'Domain name not found')
+2025-07-14 14:41:53,701 [WARNING] A query failed for dev.scanme.nmap.org: (4, 'Domain name not found')
+2025-07-14 14:41:53,716 [WARNING] A query failed for www.scanme.nmap.org: (4, 'Domain name not found')
+2025-07-14 14:41:53,716 [WARNING] A query failed for mail.scanme.nmap.org: (4, 'Domain name not found')
+2025-07-14 14:41:53,766 [WARNING] A query failed for api.scanme.nmap.org: (4, 'Domain name not found')
+2025-07-14 14:41:53,779 [WARNING] A query failed for ftp.scanme.nmap.org: (4, 'Domain name not found')
+2025-07-14 14:41:53,780 [INFO] Results written to scans/scanme_nmap_org_results.json
+2025-07-14 14:42:04,016 [WARNING] TXT query failed for scanme.nmap.org: (1, 'DNS server returned answer with no data')
+2025-07-14 14:42:04,017 [WARNING] MX query failed for scanme.nmap.org: (1, 'DNS server returned answer with no data')
+2025-07-14 14:42:04,017 [WARNING] NS query failed for scanme.nmap.org: (1, 'DNS server returned answer with no data')
+2025-07-14 14:42:04,017 [WARNING] CNAME query failed for scanme.nmap.org: (1, 'DNS server returned answer with no data')
+2025-07-14 14:42:04,023 [WARNING] A query failed for www.scanme.nmap.org: (4, 'Domain name not found')
+2025-07-14 14:42:04,023 [WARNING] A query failed for mail.scanme.nmap.org: (4, 'Domain name not found')
+2025-07-14 14:42:04,023 [WARNING] A query failed for ftp.scanme.nmap.org: (4, 'Domain name not found')
+2025-07-14 14:42:04,023 [WARNING] A query failed for dev.scanme.nmap.org: (4, 'Domain name not found')
+2025-07-14 14:42:04,023 [WARNING] A query failed for test.scanme.nmap.org: (4, 'Domain name not found')
+2025-07-14 14:42:04,023 [WARNING] A query failed for api.scanme.nmap.org: (4, 'Domain name not found')
+2025-07-14 14:42:04,031 [WARNING] A query failed for ns1.scanme.nmap.org: (4, 'Domain name not found')
+2025-07-14 14:42:04,031 [WARNING] A query failed for ns2.scanme.nmap.org: (4, 'Domain name not found')
+2025-07-14 14:42:04,032 [INFO] Results written to scans/scanme_nmap_org_results.json
+2025-07-14 14:42:12,537 [WARNING] TXT query failed for scanme.nmap.org: (1, 'DNS server returned answer with no data')
+2025-07-14 14:42:12,538 [WARNING] MX query failed for scanme.nmap.org: (1, 'DNS server returned answer with no data')
+2025-07-14 14:42:12,538 [WARNING] NS query failed for scanme.nmap.org: (1, 'DNS server returned answer with no data')
+2025-07-14 14:42:12,538 [WARNING] CNAME query failed for scanme.nmap.org: (1, 'DNS server returned answer with no data')
+2025-07-14 14:42:12,572 [WARNING] NS resolution failed for scanme.nmap.org: The DNS response does not contain an answer to the question: scanme.nmap.org. IN NS
+2025-07-14 14:42:12,662 [INFO] Results written to scans/scanme_nmap_org_results.json
+2025-07-14 14:43:28,090 [WARNING] MX query failed for nonexist.reconx.test: (4, 'Domain name not found')
+2025-07-14 14:43:28,090 [WARNING] A query failed for nonexist.reconx.test: (4, 'Domain name not found')
+2025-07-14 14:43:28,090 [WARNING] NS query failed for nonexist.reconx.test: (4, 'Domain name not found')
+2025-07-14 14:43:28,091 [WARNING] AAAA query failed for nonexist.reconx.test: (4, 'Domain name not found')
+2025-07-14 14:43:28,091 [WARNING] CNAME query failed for nonexist.reconx.test: (4, 'Domain name not found')
+2025-07-14 14:43:28,092 [WARNING] TXT query failed for nonexist.reconx.test: (4, 'Domain name not found')
+2025-07-14 14:43:28,092 [INFO] Results written to scans/nonexist_reconx_test_results.json

@@ -1,0 +1,18 @@
+{
+  "domain": "scanme.nmap.org",
+  "timestamp": "2025-07-14T18:42:12.501036+00:00",
+  "records": {
+    "A": [
+      "<ares_query_a_result> host=45.33.32.156, ttl=5"
+    ],
+    "AAAA": [
+      "<ares_query_aaaa_result> host=2600:3c01::f03c:91ff:fe18:bb2f, ttl=5"
+    ],
+    "MX": [],
+    "NS": [],
+    "TXT": [],
+    "CNAME": []
+  },
+  "axfr": {},
+  "wildcard": false
+}
