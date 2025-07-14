@@ -68,10 +68,10 @@ Expected output:
 - No external dependencies required
   
 ## screenshot
-![Auto-Decoder Tool](https://raw.githubusercontent.com/mchyasn/auto_decoder/main/screenshots/0.png)
-![Auto-Decoder Tool](https://raw.githubusercontent.com/mchyasn/auto_decoder/main/screenshots/1.png)
-![Auto-Decoder Tool](https://raw.githubusercontent.com/mchyasn/auto_decoder/main/screenshots/1.png)
-![Auto-Decoder Tool](https://raw.githubusercontent.com/mchyasn/auto_decoder/main/screenshots/2.png)
+![Screenshot](https://raw.githubusercontent.com/mchyasn/cybersecurity-tools/main/10-AI-ML-in-Cybersecurity/auto_decoder/screenshots/0.png)
+![Screenshot](https://raw.githubusercontent.com/mchyasn/cybersecurity-tools/main/10-AI-ML-in-Cybersecurity/auto_decoder/screenshots/1.png)
+![Screenshot](https://raw.githubusercontent.com/mchyasn/cybersecurity-tools/main/10-AI-ML-in-Cybersecurity/auto_decoder/screenshots/11.png)
+![Screenshot](https://raw.githubusercontent.com/mchyasn/cybersecurity-tools/main/10-AI-ML-in-Cybersecurity/auto_decoder/screenshots/2.png)
 
 ## License
 
@@ -81,6 +81,4 @@ MIT License
 
 Contributions are welcome. Suggestions, bug fixes, and improvements can be submitted via pull requests.
 
-## Screenshots
-![Screenshot](https://raw.githubusercontent.com/mchyasn/cybersecurity-tools/main/10-AI-ML-in-Cybersecurity/auto_decoder/screenshots/0.png)
-![Screenshot](https://raw.githubusercontent.com/mchyasn/cybersecurity-tools/main/10-AI-ML-in-Cybersecurity/auto_decoder/screenshots/1.png)
+
