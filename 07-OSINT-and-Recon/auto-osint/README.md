@@ -59,11 +59,11 @@ python3 auto_osint.py -t test@example.com
 
 `screenshots/`  
 - `1_tool_overview.png` — OSINT run on domain
-- ![Auto-OSINT Tool Interface](https://raw.githubusercontent.com/mchyasn/auto-osint/main/screenshots/tool.png)  
+![Screenshot](https://raw.githubusercontent.com/mchyasn/cybersecurity-tools/main/07-OSINT-and-Recon/auto-osint/screenshots/tool.png)
 - `2_email_breach_check.png` — Email test
-- ![Auto-OSINT Tool Interface](https://raw.githubusercontent.com/mchyasn/auto-osint/main/screenshots/email.png) 
+![Screenshot](https://raw.githubusercontent.com/mchyasn/cybersecurity-tools/main/07-OSINT-and-Recon/auto-osint/screenshots/ip.png)
 - `3_ip_reputation_check.png` — IP flag test
-- ![Auto-OSINT Tool Interface](https://raw.githubusercontent.com/mchyasn/auto-osint/main/screenshots/ip.png) 
+![Screenshot](https://raw.githubusercontent.com/mchyasn/cybersecurity-tools/main/07-OSINT-and-Recon/auto-osint/screenshots/email.png)
 
 ## Findings
 
@@ -79,7 +79,3 @@ Do not scan domains, IPs, or emails you do not have permission to test.
 Created and maintained by: [github.com/mchyasn](https://github.com/mchyasn)  
 Part of my Cybersecurity Tools Portfolio
 
-## Screenshots
-![Screenshot](https://raw.githubusercontent.com/mchyasn/cybersecurity-tools/main/07-OSINT-and-Recon/auto-osint/screenshots/tool.png)
-![Screenshot](https://raw.githubusercontent.com/mchyasn/cybersecurity-tools/main/07-OSINT-and-Recon/auto-osint/screenshots/ip.png)
-![Screenshot](https://raw.githubusercontent.com/mchyasn/cybersecurity-tools/main/07-OSINT-and-Recon/auto-osint/screenshots/email.png)
