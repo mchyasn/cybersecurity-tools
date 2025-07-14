@@ -1,0 +1,7 @@
+requests
+# Required system packages
+sudo apt update
+sudo apt install whois curl python3-pip -y
+
+# Python packages
+pip install -r req/requirements.txt

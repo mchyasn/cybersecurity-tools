@@ -1,0 +1,15 @@
+# Manual recon for netflix.com
+
+# DNS record types
+dig A netflix.com
+dig MX netflix.com
+dig TXT netflix.com
+
+# Subdomain brute-forcing (requires wordlist)
+gobuster dns -d netflix.com -w /usr/share/seclists/Discovery/DNS/subdomains-top1million-5000.txt
+
+# Passive recon
+curl -s "https://crt.sh/?q=%25.netflix.com&output=json" | jq
+
+# IP reputation check
+curl https://www.abuseipdb.com/check/45.33.32.156
