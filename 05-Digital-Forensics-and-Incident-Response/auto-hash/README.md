@@ -73,7 +73,7 @@ No external dependencies required
 ```
 ## Screenshots
 
-![Auto-Hash Tool](https://raw.githubusercontent.com/mchyasn/auto-hash/main/screenshots/0.png)
+![Screenshot](https://raw.githubusercontent.com/mchyasn/cybersecurity-tools/main/05-Digital-Forensics-and-Incident-Response/auto-hash/screenshots/0.png)
 
 ## Learning Goals
 ```
@@ -89,5 +89,3 @@ This tool is intended for educational and ethical use only. Do not use it on sys
 
 Created and maintained by mchyasn
 
-## Screenshots
-![Screenshot](https://raw.githubusercontent.com/mchyasn/cybersecurity-tools/main/05-Digital-Forensics-and-Incident-Response/auto-hash/screenshots/0.png)
