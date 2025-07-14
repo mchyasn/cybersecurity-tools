@@ -1,0 +1,25 @@
+2025-07-14 14:06:31,714 - INFO - Scanning 45.33.32.156 on ports: [20, 21, 22, 23, 24, 25]
+2025-07-14 14:06:31,714 - DEBUG - Using selector: EpollSelector
+2025-07-14 14:06:34,720 - WARNING - Port 20 closed or error: 
+2025-07-14 14:06:34,720 - WARNING - Port 21 closed or error: 
+2025-07-14 14:06:34,720 - WARNING - Port 23 closed or error: 
+2025-07-14 14:06:34,721 - WARNING - Port 24 closed or error: 
+2025-07-14 14:06:34,721 - WARNING - Port 25 closed or error: 
+2025-07-14 14:06:43,172 - INFO - Scanning 45.33.32.156 on ports: [22, 80, 443]
+2025-07-14 14:06:43,173 - DEBUG - Using selector: EpollSelector
+2025-07-14 14:06:46,189 - WARNING - Port 443 closed or error: 
+2025-07-14 14:06:52,748 - ERROR - Fatal error: [Errno -2] Name or service not known
+2025-07-14 14:07:06,094 - INFO - Scanning 45.33.32.156 on ports: [21, 22, 23, 25, 53, 80, 110, 135, 139, 143, 443, 445, 3306, 3389]
+2025-07-14 14:07:06,094 - DEBUG - Using selector: EpollSelector
+2025-07-14 14:07:09,100 - WARNING - Port 21 closed or error: 
+2025-07-14 14:07:09,100 - WARNING - Port 23 closed or error: 
+2025-07-14 14:07:09,101 - WARNING - Port 25 closed or error: 
+2025-07-14 14:07:09,101 - WARNING - Port 53 closed or error: 
+2025-07-14 14:07:09,102 - WARNING - Port 110 closed or error: 
+2025-07-14 14:07:09,102 - WARNING - Port 135 closed or error: 
+2025-07-14 14:07:09,103 - WARNING - Port 139 closed or error: 
+2025-07-14 14:07:09,103 - WARNING - Port 143 closed or error: 
+2025-07-14 14:07:09,103 - WARNING - Port 443 closed or error: 
+2025-07-14 14:07:09,104 - WARNING - Port 445 closed or error: 
+2025-07-14 14:07:09,104 - WARNING - Port 3306 closed or error: 
+2025-07-14 14:07:09,105 - WARNING - Port 3389 closed or error: 

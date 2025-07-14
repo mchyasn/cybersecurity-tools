@@ -1,0 +1,38 @@
+{
+  "target": "scanme.nmap.org",
+  "ip": "45.33.32.156",
+  "timestamp": "2025-07-14T18:06:34.722854",
+  "results": [
+    {
+      "port": 20,
+      "status": "closed",
+      "error": ""
+    },
+    {
+      "port": 21,
+      "status": "closed",
+      "error": ""
+    },
+    {
+      "port": 22,
+      "status": "open",
+      "os": "Linux/Unix",
+      "banner": "SSH-2.0-OpenSSH_6.6.1p1 Ubuntu-2ubuntu2.13"
+    },
+    {
+      "port": 23,
+      "status": "closed",
+      "error": ""
+    },
+    {
+      "port": 24,
+      "status": "closed",
+      "error": ""
+    },
+    {
+      "port": 25,
+      "status": "closed",
+      "error": ""
+    }
+  ]
+}
