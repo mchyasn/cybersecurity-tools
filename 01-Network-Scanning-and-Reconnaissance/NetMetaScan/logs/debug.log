@@ -1,0 +1,46 @@
+2025-07-14 15:17:42,537 [DEBUG] Using selector: EpollSelector
+2025-07-14 15:17:42,978 [INFO] scanme.nmap.org:80 [http] -> OK
+2025-07-14 15:17:43,004 [INFO] scanme.nmap.org:22 [ssh] -> OK
+2025-07-14 15:17:45,565 [WARNING] scanme.nmap.org:110 [pop3] failed: Multiple exceptions: [Errno 111] Connect call failed ('45.33.32.156', 110), [Errno 101] Network is unreachable
+2025-07-14 15:17:45,566 [WARNING] scanme.nmap.org:443 [https] failed: Multiple exceptions: [Errno 111] Connect call failed ('45.33.32.156', 443), [Errno 101] Network is unreachable
+2025-07-14 15:17:45,568 [WARNING] scanme.nmap.org:25 [smtp] failed: Multiple exceptions: [Errno 111] Connect call failed ('45.33.32.156', 25), [Errno 101] Network is unreachable
+2025-07-14 15:17:45,590 [WARNING] scanme.nmap.org:3389 [rdp] failed: Multiple exceptions: [Errno 111] Connect call failed ('45.33.32.156', 3389), [Errno 101] Network is unreachable
+2025-07-14 15:17:45,600 [WARNING] scanme.nmap.org:21 [ftp] failed: Multiple exceptions: [Errno 111] Connect call failed ('45.33.32.156', 21), [Errno 101] Network is unreachable
+2025-07-14 15:17:45,605 [INFO] Results written to scans
+2025-07-14 15:20:02,711 [DEBUG] Registered handler http
+2025-07-14 15:20:02,711 [DEBUG] Registered handler https
+2025-07-14 15:20:02,711 [DEBUG] Registered handler ssh
+2025-07-14 15:20:02,711 [DEBUG] Registered handler smtp
+2025-07-14 15:20:02,712 [DEBUG] Registered handler ftp
+2025-07-14 15:20:02,712 [DEBUG] Registered handler pop3
+2025-07-14 15:20:02,712 [DEBUG] Registered handler rdp
+2025-07-14 15:20:02,713 [DEBUG] Using selector: EpollSelector
+2025-07-14 15:20:03,096 [INFO] scanme.nmap.org:80 http -> ok
+2025-07-14 15:20:03,105 [INFO] scanme.nmap.org:22 ssh -> ok
+2025-07-14 15:20:05,659 [WARNING] scanme.nmap.org:110 pop3 fail: Multiple exceptions: [Errno 111] Connect call failed ('45.33.32.156', 110), [Errno 101] Network is unreachable
+2025-07-14 15:20:05,678 [WARNING] scanme.nmap.org:25 smtp fail: Multiple exceptions: [Errno 111] Connect call failed ('45.33.32.156', 25), [Errno 101] Network is unreachable
+2025-07-14 15:20:05,678 [WARNING] scanme.nmap.org:443 https fail: Multiple exceptions: [Errno 111] Connect call failed ('45.33.32.156', 443), [Errno 101] Network is unreachable
+2025-07-14 15:20:05,680 [WARNING] scanme.nmap.org:21 ftp fail: Multiple exceptions: [Errno 111] Connect call failed ('45.33.32.156', 21), [Errno 101] Network is unreachable
+2025-07-14 15:20:05,692 [WARNING] scanme.nmap.org:3389 rdp fail: Multiple exceptions: [Errno 111] Connect call failed ('45.33.32.156', 3389), [Errno 101] Network is unreachable
+2025-07-14 15:20:05,697 [INFO] Results written scans/netmetascan_20250714_192005.json
+2025-07-14 15:26:46,913 [DEBUG] Using selector: EpollSelector
+2025-07-14 15:26:47,303 [INFO] scanme.nmap.org:22 [ssh] success
+2025-07-14 15:26:49,903 [WARNING] scanme.nmap.org:21 [ftp] failed: Multiple exceptions: [Errno 111] Connect call failed ('45.33.32.156', 21), [Errno 101] Network is unreachable
+2025-07-14 15:26:49,905 [WARNING] scanme.nmap.org:110 [pop3] failed: Multiple exceptions: [Errno 111] Connect call failed ('45.33.32.156', 110), [Errno 101] Network is unreachable
+2025-07-14 15:26:49,906 [WARNING] scanme.nmap.org:3389 [rdp] failed: Multiple exceptions: [Errno 111] Connect call failed ('45.33.32.156', 3389), [Errno 101] Network is unreachable
+2025-07-14 15:26:51,937 [WARNING] scanme.nmap.org:443 [https] failed: 
+2025-07-14 15:26:51,939 [INFO] Results saved to scans/netmetascan_20250714_192651.json
+2025-07-14 15:27:05,035 [DEBUG] Using selector: EpollSelector
+2025-07-14 15:27:05,448 [INFO] scanme.nmap.org:22 [ssh] success
+2025-07-14 15:27:08,017 [WARNING] scanme.nmap.org:21 [ftp] failed: Multiple exceptions: [Errno 111] Connect call failed ('45.33.32.156', 21), [Errno 101] Network is unreachable
+2025-07-14 15:27:08,018 [WARNING] scanme.nmap.org:110 [pop3] failed: Multiple exceptions: [Errno 111] Connect call failed ('45.33.32.156', 110), [Errno 101] Network is unreachable
+2025-07-14 15:27:08,018 [WARNING] scanme.nmap.org:3389 [rdp] failed: Multiple exceptions: [Errno 111] Connect call failed ('45.33.32.156', 3389), [Errno 101] Network is unreachable
+2025-07-14 15:27:08,069 [WARNING] scanme.nmap.org:443 [https] failed: Multiple exceptions: [Errno 111] Connect call failed ('45.33.32.156', 443), [Errno 101] Network is unreachable
+2025-07-14 15:27:08,072 [INFO] Results saved to scans/netmetascan_20250714_192708.json
+2025-07-14 15:29:30,781 [DEBUG] Using selector: EpollSelector
+2025-07-14 15:29:31,181 [INFO] scanme.nmap.org:22 [ssh] success
+2025-07-14 15:29:33,770 [WARNING] scanme.nmap.org:443 [https] failed: Multiple exceptions: [Errno 111] Connect call failed ('45.33.32.156', 443), [Errno 101] Network is unreachable
+2025-07-14 15:29:33,772 [WARNING] scanme.nmap.org:21 [ftp] failed: Multiple exceptions: [Errno 111] Connect call failed ('45.33.32.156', 21), [Errno 101] Network is unreachable
+2025-07-14 15:29:33,773 [WARNING] scanme.nmap.org:110 [pop3] failed: Multiple exceptions: [Errno 111] Connect call failed ('45.33.32.156', 110), [Errno 101] Network is unreachable
+2025-07-14 15:29:35,800 [WARNING] scanme.nmap.org:3389 [rdp] failed: 
+2025-07-14 15:29:35,800 [INFO] Results saved to scans/netmetascan_20250714_192935.json
