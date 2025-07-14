@@ -34,15 +34,11 @@ logs/scanme_nmap_org_quick_2025-07-13_14-35-15.log
 ## screenshots 
 
 `quick scan`
-![Auto-Scan Quick Results](https://raw.githubusercontent.com/mchyasn/auto-scan/main/screenshots/quick.png)
+![Screenshot](https://raw.githubusercontent.com/mchyasn/cybersecurity-tools/main/01-Network-Scanning-and-Reconnaissance/auto-scan/screenshots/quick.png)
 
 `full`
-![Auto-Scan Quick Results](https://raw.githubusercontent.com/mchyasn/auto-scan/main/screenshots/full.png)
+![Screenshot](https://raw.githubusercontent.com/mchyasn/cybersecurity-tools/main/01-Network-Scanning-and-Reconnaissance/auto-scan/screenshots/full.png)
 
 #### Author
 ##### Built by mchyasn
 ##### Part of the Cybersecurity Tools Portfolio series
-
-## Screenshots
-![Screenshot](https://raw.githubusercontent.com/mchyasn/cybersecurity-tools/main/01-Network-Scanning-and-Reconnaissance/auto-scan/screenshots/quick.png)
-![Screenshot](https://raw.githubusercontent.com/mchyasn/cybersecurity-tools/main/01-Network-Scanning-and-Reconnaissance/auto-scan/screenshots/full.png)
