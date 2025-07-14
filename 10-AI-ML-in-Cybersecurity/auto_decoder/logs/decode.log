@@ -1,0 +1,42 @@
+2025-07-13 19:06:20,986 - Decoded using base64
+2025-07-13 19:14:40,699 - Decoded using base64
+2025-07-13 19:14:40,700 - Decoded using base64
+2025-07-13 19:14:40,700 - Decoded using url
+2025-07-13 19:14:40,700 - Decoded using url
+2025-07-13 19:14:40,700 - Decoded using url
+2025-07-13 19:19:40,839 - [Layer 1] Attempting decode...
+2025-07-13 19:19:40,839 - Trying method: jwt
+2025-07-13 19:19:40,839 - Trying method: base64
+2025-07-13 19:19:40,840 - Success: Decoded using base64
+2025-07-13 19:19:40,840 - Output: TGF5ZXJlZCBzZWNyZXQ=
+2025-07-13 19:19:40,840 - [Layer 1] Success: base64
+2025-07-13 19:19:40,840 - [Layer 2] Attempting decode...
+2025-07-13 19:19:40,840 - Trying method: jwt
+2025-07-13 19:19:40,840 - Trying method: base64
+2025-07-13 19:19:40,840 - Success: Decoded using base64
+2025-07-13 19:19:40,840 - Output: Layered secret
+2025-07-13 19:19:40,840 - [Layer 2] Success: base64
+2025-07-13 19:19:40,840 - [Layer 3] Attempting decode...
+2025-07-13 19:19:40,840 - Trying method: jwt
+2025-07-13 19:19:40,840 - Trying method: base64
+2025-07-13 19:19:40,840 - Trying method: hex
+2025-07-13 19:19:40,840 - Trying method: url
+2025-07-13 19:19:40,840 - Success: Decoded using url
+2025-07-13 19:19:40,840 - Output: Layered secret
+2025-07-13 19:19:40,840 - [Layer 3] Success: url
+2025-07-13 19:19:40,841 - [Layer 4] Attempting decode...
+2025-07-13 19:19:40,841 - Trying method: jwt
+2025-07-13 19:19:40,841 - Trying method: base64
+2025-07-13 19:19:40,841 - Trying method: hex
+2025-07-13 19:19:40,841 - Trying method: url
+2025-07-13 19:19:40,841 - Success: Decoded using url
+2025-07-13 19:19:40,841 - Output: Layered secret
+2025-07-13 19:19:40,841 - [Layer 4] Success: url
+2025-07-13 19:19:40,841 - [Layer 5] Attempting decode...
+2025-07-13 19:19:40,841 - Trying method: jwt
+2025-07-13 19:19:40,841 - Trying method: base64
+2025-07-13 19:19:40,841 - Trying method: hex
+2025-07-13 19:19:40,841 - Trying method: url
+2025-07-13 19:19:40,841 - Success: Decoded using url
+2025-07-13 19:19:40,841 - Output: Layered secret
+2025-07-13 19:19:40,841 - [Layer 5] Success: url

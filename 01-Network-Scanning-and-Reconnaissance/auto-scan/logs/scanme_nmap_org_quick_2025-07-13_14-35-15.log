@@ -1,0 +1,11 @@
+# Nmap 7.95 scan initiated Sun Jul 13 14:35:15 2025 as: /usr/lib/nmap/nmap --privileged -T4 --top-ports 100 -sV -oN logs/scanme_nmap_org_quick_2025-07-13_14-35-15.log scanme.nmap.org
+Nmap scan report for scanme.nmap.org (45.33.32.156)
+Host is up (0.038s latency).
+Other addresses for scanme.nmap.org (not scanned): 2600:3c01::f03c:91ff:fe18:bb2f
+Not shown: 67 filtered tcp ports (no-response), 31 closed tcp ports (reset)
+PORT   STATE SERVICE    VERSION
+22/tcp open  tcpwrapped
+80/tcp open  http       Apache httpd 2.4.7 ((Ubuntu))
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Sun Jul 13 14:35:35 2025 -- 1 IP address (1 host up) scanned in 19.25 seconds
