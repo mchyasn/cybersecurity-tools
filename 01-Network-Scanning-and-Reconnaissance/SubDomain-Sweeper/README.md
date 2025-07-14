@@ -62,12 +62,13 @@ python3 main.py -d invalid.example.fake -w configs/test_wordlist.txt -o scans/in
 # Test 4: Missing file test
 python3 main.py -d scanme.nmap.org -w configs/missing_file.txt -o scans/missing_wordlist.json
 ```
-
+![Subdomain Enumeration Tool](https://raw.githubusercontent.com/mchyasn/cybersecurity-tools/main/01-Network-Scanning-and-Reconnaissance/SubDomain-Sweeper/screenshots/0.png)
+```
 - Output results saved in `scans/`
 - Errors logged to `logs/errors.log`
 - Script passed tests with various domains and concurrency settings
+```
 
+## Author: mchyasn
 
-
-## Screenshots
 
