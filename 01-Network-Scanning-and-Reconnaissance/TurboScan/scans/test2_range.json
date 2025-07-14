@@ -1,0 +1,8 @@
+[
+  {
+    "ip": "192.168.1.1",
+    "port": 80,
+    "status": "open",
+    "banner": "HTTP/1.1 200 OK\r\nDate: Mon, 14 Jul 2025 18:33:22 GMT\r\nContent-Type: text/html; charset=utf-8\r\nContent-Length: 2400\r\nConnection: keep-alive\r\nExpires: Mon, 14 Jul 2025 18:33:21 GMT\r\nCache-Control: no-cache\r\nX-Frame-Options: SAMEORIGIN\r\nX-Content-Type-Options: nosniff\r\nX-XSS-Protection: 1; mode=block\r\ncache-control: no-cache, no-store, max-age=0, must-revalidate\r\npragma: no-cache\r\nX-Download-Options: noopen\r\nX-Permitted-Cross-Domain-Policies: master-only\r\nReferrer-Policy: no-referrer-when-downgrade\r\nAccept-Ranges: bytes"
+  }
+]

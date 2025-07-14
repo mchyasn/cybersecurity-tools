@@ -1,0 +1,14 @@
+[
+  {
+    "ip": "scanme.nmap.org",
+    "port": 22,
+    "status": "open",
+    "banner": "Banner error: [Errno 104] Connection reset by peer"
+  },
+  {
+    "ip": "scanme.nmap.org",
+    "port": 80,
+    "status": "open",
+    "banner": "HTTP/1.1 200 OK\r\nDate: Mon, 14 Jul 2025 17:33:14 GMT\r\nServer: Apache/2.4.7 (Ubuntu)\r\nAccept-Ranges: bytes\r\nVary: Accept-Encoding\r\nContent-Type: text/html"
+  }
+]
