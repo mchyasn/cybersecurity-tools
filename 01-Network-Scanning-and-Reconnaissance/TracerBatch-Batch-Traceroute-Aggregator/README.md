@@ -64,10 +64,14 @@ python3 main.py -t google.com cloudflare.com github.com -o scans/multi_trace.jso
 # Test 3: Invalid domain
 python3 main.py -t invalid.domain.fake -o scans/error_test.json
 ```
+![Batch Traceroute Aggregator](https://raw.githubusercontent.com/mchyasn/cybersecurity-tools/main/01-Network-Scanning-and-Reconnaissance/TracerBatch-Batch-Traceroute-Aggregator/screenshots/0.png)
 
+```
 - Output confirmed in `scans/*.json`
 - Log file `logs/debug.log` confirmed creation
 - Manual screenshots captured
+```
+License
+MIT
 
-### Phase 4: Screenshots Taken
-- `screenshots/single_trace_output
+Author: mchyasn
