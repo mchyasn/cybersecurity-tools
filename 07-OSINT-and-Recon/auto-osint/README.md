@@ -78,3 +78,8 @@ Do not scan domains, IPs, or emails you do not have permission to test.
 
 Created and maintained by: [github.com/mchyasn](https://github.com/mchyasn)  
 Part of my Cybersecurity Tools Portfolio
+
+## Screenshots
+![Screenshot](https://raw.githubusercontent.com/mchyasn/cybersecurity-tools/main/07-OSINT-and-Recon/auto-osint/screenshots/tool.png)
+![Screenshot](https://raw.githubusercontent.com/mchyasn/cybersecurity-tools/main/07-OSINT-and-Recon/auto-osint/screenshots/ip.png)
+![Screenshot](https://raw.githubusercontent.com/mchyasn/cybersecurity-tools/main/07-OSINT-and-Recon/auto-osint/screenshots/email.png)

@@ -42,3 +42,7 @@ logs/scanme_nmap_org_quick_2025-07-13_14-35-15.log
 #### Author
 ##### Built by mchyasn
 ##### Part of the Cybersecurity Tools Portfolio series
+
+## Screenshots
+![Screenshot](https://raw.githubusercontent.com/mchyasn/cybersecurity-tools/main/01-Network-Scanning-and-Reconnaissance/auto-scan/screenshots/quick.png)
+![Screenshot](https://raw.githubusercontent.com/mchyasn/cybersecurity-tools/main/01-Network-Scanning-and-Reconnaissance/auto-scan/screenshots/full.png)

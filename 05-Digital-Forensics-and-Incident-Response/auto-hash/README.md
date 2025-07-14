@@ -88,3 +88,6 @@ This tool is intended for educational and ethical use only. Do not use it on sys
 ## Author
 
 Created and maintained by mchyasn
+
+## Screenshots
+![Screenshot](https://raw.githubusercontent.com/mchyasn/cybersecurity-tools/main/05-Digital-Forensics-and-Incident-Response/auto-hash/screenshots/0.png)

@@ -60,3 +60,6 @@ auto-encode/
 ## License
 
 MIT License
+
+## Screenshots
+![Screenshot](https://raw.githubusercontent.com/mchyasn/cybersecurity-tools/main/10-AI-ML-in-Cybersecurity/auto-encode/screenshots/0.png)
