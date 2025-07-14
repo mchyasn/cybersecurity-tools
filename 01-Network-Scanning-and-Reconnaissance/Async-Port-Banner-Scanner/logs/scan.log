@@ -1,0 +1,12 @@
+2025-07-14 01:02:08,696 - INFO - [OPEN] scanme.nmap.org:22 — 
+2025-07-14 01:02:10,515 - WARNING - [FAIL] scanme.nmap.org:80 — 
+2025-07-14 01:02:11,279 - WARNING - [FAIL] scanme.nmap.org:443 — Multiple exceptions: [Errno 111] Connect call failed ('45.33.32.156', 443), [Errno 101] Network is unreachable
+2025-07-14 01:06:41,541 - INFO - [OPEN] scanme.nmap.org:22 — 
+2025-07-14 01:06:44,115 - WARNING - [FAIL] scanme.nmap.org:24 — Multiple exceptions: [Errno 111] Connect call failed ('45.33.32.156', 24), [Errno 101] Network is unreachable
+2025-07-14 01:06:44,119 - WARNING - [FAIL] scanme.nmap.org:20 — Multiple exceptions: [Errno 111] Connect call failed ('45.33.32.156', 20), [Errno 101] Network is unreachable
+2025-07-14 01:06:44,128 - WARNING - [FAIL] scanme.nmap.org:25 — Multiple exceptions: [Errno 111] Connect call failed ('45.33.32.156', 25), [Errno 101] Network is unreachable
+2025-07-14 01:06:44,128 - WARNING - [FAIL] scanme.nmap.org:21 — Multiple exceptions: [Errno 111] Connect call failed ('45.33.32.156', 21), [Errno 101] Network is unreachable
+2025-07-14 01:06:44,148 - WARNING - [FAIL] scanme.nmap.org:23 — Multiple exceptions: [Errno 111] Connect call failed ('45.33.32.156', 23), [Errno 101] Network is unreachable
+2025-07-14 01:06:55,667 - INFO - [OPEN] scanme.nmap.org:22 — 
+2025-07-14 01:07:08,670 - WARNING - [FAIL] 256.256.256.256:80 — 
+2025-07-14 01:07:39,153 - WARNING - [FAIL] scanme.nmap.org:9999 — Multiple exceptions: [Errno 111] Connect call failed ('45.33.32.156', 9999), [Errno 101] Network is unreachable

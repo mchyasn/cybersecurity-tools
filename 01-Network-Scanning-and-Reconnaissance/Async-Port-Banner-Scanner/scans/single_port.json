@@ -1,0 +1,8 @@
+[
+  {
+    "ip": "scanme.nmap.org",
+    "port": 22,
+    "status": "open",
+    "banner": ""
+  }
+]
