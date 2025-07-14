@@ -1,0 +1,5 @@
+2025-07-14 13:05:01,704 - INFO - Tracing invalid.domain.fake
+2025-07-14 13:05:01,704 - INFO - Running traceroute for invalid.domain.fake
+2025-07-14 13:05:01,821 - ERROR - Traceroute failed for invalid.domain.fake: invalid.domain.fake: Name or service not known
+Cannot handle "host" cmdline arg `invalid.domain.fake' on position 1 (argc 4)
+
