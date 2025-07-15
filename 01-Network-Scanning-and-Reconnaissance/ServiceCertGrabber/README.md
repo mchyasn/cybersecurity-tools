@@ -1,4 +1,3 @@
-````markdown
 # ServiceCertGrabber
 
 ## Description
@@ -65,21 +64,10 @@ ServiceCertGrabber/
 sudo python3 main.py google.com
 ```
 
-* Screenshot instruction:
-
-  * Run the tool
-  * Wait for `[+] Scan complete.` message
-  * Press `PrtSc` and save as `screenshots/certgrab_google.png`
-
-### Phase 4: README.md (Final Step)
-
-This file.
-
 ## Screenshots
 
-```
-screenshots/certgrab_google.png
-```
+![SSL Certificate Collector](https://raw.githubusercontent.com/mchyasn/cybersecurity-tools/main/01-Network-Scanning-and-Reconnaissance/ServiceCertGrabber/screenshots/0.png)
+
 
 ## License
 
@@ -87,7 +75,4 @@ MIT
 
 ## Author
 
-mchyasn
-
-```
-```
+## mchyasn
