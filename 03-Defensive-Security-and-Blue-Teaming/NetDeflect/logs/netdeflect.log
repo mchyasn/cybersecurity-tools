@@ -1,0 +1,6 @@
+2025-07-18 14:08:28,846 [INFO] Monitoring started on interface: eth0
+2025-07-18 14:08:28,846 [INFO] Trusted gateway set to: 192.168.1.1
+2025-07-18 14:09:00,236 [INFO] Monitoring started on interface: eth0
+2025-07-18 14:09:00,236 [INFO] Trusted gateway set to: 192.168.1.1
+2025-07-18 14:09:17,092 [WARNING] Suspicious ARP reply: 192.168.44.128 is-at 00:0c:29:00:dc:96 (to 192.168.44.2)
+2025-07-18 14:11:52,060 [WARNING] Suspicious ARP reply: 192.168.44.254 is-at 00:50:56:fc:a1:b0 (to 192.168.44.1)
