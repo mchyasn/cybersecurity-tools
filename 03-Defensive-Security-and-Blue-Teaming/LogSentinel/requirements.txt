@@ -1,0 +1,9 @@
+rich
+pandas
+scikit-learn
+watchdog
+geoip2
+colorlog
+tqdm
+Flask
+joblib

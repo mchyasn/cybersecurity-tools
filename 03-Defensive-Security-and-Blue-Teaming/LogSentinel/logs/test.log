@@ -1,0 +1,9 @@
+Jul 18 12:00:00 beast sshd[1024]: Accepted password for user1 from 192.168.1.5 port 22 ssh2
+Jul 18 12:00:01 beast systemd: Starting Cleanup...
+Jul 18 13:30:00 beast sshd[999]: Failed login for root from 203.0.113.1
+Jul 18 13:30:02 beast systemd: Started cleanup job
+ALERT: KERNEL MODULE LOADED BADLY
+Jul 18 12:00:05 beast sshd[999]: root login from 203.0.113.10 failed
+echo Jul 18 12:00:05 beast sshd[999]: root login from 203.0.113.10 failed >> logs/test.log
+CRITICALecho Jul 18 12:00:05 beast sshd[999]: root login from 203.0.113.10 failed >> logs/test.log
+ BACKDOOR ENABLED >> logs/test.logecho echo Jul 18 12:00:05 beast sshd[999]: root login from 203.0.113.10 failed
