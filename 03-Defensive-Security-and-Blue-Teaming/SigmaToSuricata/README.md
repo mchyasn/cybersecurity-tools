@@ -74,7 +74,7 @@ python3 -m unittest discover tests
 
 ## Screenshots
 
-Save screenshots from real usage into the `screenshots/` folder for documentation, including translated `.rules` outputs and test logs.
+![Sigma Rule Converter for Suricata](https://raw.githubusercontent.com/mchyasn/cybersecurity-tools/main/03-Defensive-Security-and-Blue-Teaming/SigmaToSuricata/screenshots/0.png)
 
 ---
 
