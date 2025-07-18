@@ -28,28 +28,10 @@ LogSentinel is a real-time log ingestion and anomaly detection engine built for 
 
 ---
 
-## Folder Structure
-
-```
-LogSentinel/
-├── main.py
-├── requirements.txt
-├── logs/                 # Input logs to monitor
-├── scans/                # Output alert logs
-├── models/               # Saved anomaly detection models
-├── detectors/
-│   ├── __init__.py
-│   └── isoforest.py
-├── parsers/
-│   ├── __init__.py
-│   └── syslog.py
-├── web/
-│   ├── __init__.py
-│   └── dashboard.py
-├── screenshots/          # (empty, for user screenshots)
-```
-
----
+## screenshots
+![Log Monitoring Sentinel](https://raw.githubusercontent.com/mchyasn/cybersecurity-tools/main/03-Defensive-Security-and-Blue-Teaming/LogSentinel/screenshots/0.png)
+![Log Monitoring Sentinel](https://raw.githubusercontent.com/mchyasn/cybersecurity-tools/main/03-Defensive-Security-and-Blue-Teaming/LogSentinel/screenshots/1.png)
+![Log Monitoring Sentinel](https://raw.githubusercontent.com/mchyasn/cybersecurity-tools/main/03-Defensive-Security-and-Blue-Teaming/LogSentinel/screenshots/2.png)
 
 ## Installation
 
