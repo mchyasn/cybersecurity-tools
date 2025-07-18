@@ -1,0 +1,3 @@
+2025-07-18 14:29:42,701 [INFO] 🔍 Starting AWS misconfiguration scan...
+2025-07-18 14:29:42,832 [WARNING] [AWS][2025-07-18T18:29:42.832936] S3 scan error: Unable to locate credentials
+2025-07-18 14:29:42,850 [WARNING] [AWS][2025-07-18T18:29:42.850379] IAM scan error: Unable to locate credentials

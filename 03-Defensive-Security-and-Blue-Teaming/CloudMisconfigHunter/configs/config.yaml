@@ -1,0 +1,12 @@
+# CloudMisconfigHunter Configuration
+
+# GCP
+gcp_bucket_check: "my-public-bucket"
+gcp_api_url: "https://my-gcp-app.appspot.com/api/test"
+
+# Azure
+azure_blob_url: "https://myazure.blob.core.windows.net/public/"
+azure_api_url: "https://myapp.azurewebsites.net/api/info"
+
+# (Optional) Future webhook alert destinations can go here
+webhook_url: ""

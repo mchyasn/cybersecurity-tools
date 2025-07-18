@@ -1,0 +1,2 @@
+[AWS][2025-07-18T18:29:42.832936] S3 scan error: Unable to locate credentials
+[AWS][2025-07-18T18:29:42.850379] IAM scan error: Unable to locate credentials
