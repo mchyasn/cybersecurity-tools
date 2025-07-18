@@ -29,7 +29,7 @@ See `configs/config.yaml` for settings.
 
 ## Screenshots
 
-![Usage](screenshots/usage.png)
+![Network Traffic Deflection Tool](https://raw.githubusercontent.com/mchyasn/cybersecurity-tools/main/03-Defensive-Security-and-Blue-Teaming/NetDeflect/screenshots/0.png)
 
 ## License
 
