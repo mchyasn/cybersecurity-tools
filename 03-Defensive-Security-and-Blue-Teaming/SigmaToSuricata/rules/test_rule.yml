@@ -1,0 +1,7 @@
+title: Test
+logsource:
+  product: test
+detection:
+  sel:
+    user_agent: test
+  condition: sel
