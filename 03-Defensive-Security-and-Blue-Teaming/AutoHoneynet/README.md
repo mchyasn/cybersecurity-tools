@@ -39,8 +39,7 @@ See `configs/config.yaml` for log output path and deployment mode.
 
 ## Screenshots
 
-![Usage](screenshots/deployment.png)
-![Log Monitor](screenshots/monitoring.png)
+![Automated Honeynet Deployment](https://raw.githubusercontent.com/mchyasn/cybersecurity-tools/main/03-Defensive-Security-and-Blue-Teaming/AutoHoneynet/screenshots/0.png)
 
 ## License
 
