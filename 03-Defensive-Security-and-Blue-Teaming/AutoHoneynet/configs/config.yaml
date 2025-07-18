@@ -1,0 +1,16 @@
+# AutoHoneynet Configuration
+
+honeypots:
+  ssh: true
+  http: true
+
+log_output:
+  path: logs/honeypot_events.log
+
+alert_keywords:
+  - login
+  - root
+  - failed password
+  - GET /admin
+  - exploit
+  - /etc/passwd
