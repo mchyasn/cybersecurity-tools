@@ -33,7 +33,7 @@ See `configs/config.yaml` for settings.
 
 ## Screenshots
 
-![Usage](screenshots/usage.png)
+![Incident Response Playbook Automation](https://raw.githubusercontent.com/mchyasn/cybersecurity-tools/main/03-Defensive-Security-and-Blue-Teaming/AutoIR-Playbook/screenshots/0.png)
 
 ## License
 
