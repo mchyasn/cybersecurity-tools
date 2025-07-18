@@ -34,7 +34,7 @@ See `configs/config.yaml` for bucket names, test API URLs, and future webhook co
 
 ## Screenshots
 
-![Usage](screenshots/usage.png)
+![Cloud Security Posture Scanner](https://raw.githubusercontent.com/mchyasn/cybersecurity-tools/main/03-Defensive-Security-and-Blue-Teaming/CloudMisconfigHunter/screenshots/0.png)
 
 ## License
 
