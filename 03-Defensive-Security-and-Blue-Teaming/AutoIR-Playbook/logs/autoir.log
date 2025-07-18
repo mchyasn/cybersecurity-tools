@@ -1,0 +1,6 @@
+2025-07-18 14:18:04,692 [INFO] Config loaded: {'working_directory': '/tmp', 'alert_webhook': 'https://example.com/alert'}
+2025-07-18 14:18:04,693 [INFO] Executing playbook...
+2025-07-18 14:18:04,693 [INFO] [DRY-RUN] Would tag alert: Suspicious login detected from 203.0.113.55
+2025-07-18 14:18:04,693 [INFO] [DRY-RUN] Would execute: who -a > logs/logins.txt
+2025-07-18 14:18:04,693 [INFO] [DRY-RUN] Would copy /var/log/auth.log to logs/auth_copy.log
+2025-07-18 14:18:04,693 [INFO] [DRY-RUN] Would delete /tmp/malicious_script.sh

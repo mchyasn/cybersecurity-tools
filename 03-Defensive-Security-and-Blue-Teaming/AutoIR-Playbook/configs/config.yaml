@@ -1,0 +1,5 @@
+# AutoIR-Playbook Configuration File
+
+# Optional global settings (extend as needed)
+working_directory: "/tmp"
+alert_webhook: "https://example.com/alert"

@@ -1,0 +1,14 @@
+# Sample Incident Response Playbook
+
+- action: tag
+  message: "Suspicious login detected from 203.0.113.55"
+
+- action: shell
+  cmd: "who -a > logs/logins.txt"
+
+- action: copy
+  src: "/var/log/auth.log"
+  dst: "logs/auth_copy.log"
+
+- action: delete
+  path: "/tmp/malicious_script.sh"
