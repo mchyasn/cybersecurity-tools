@@ -1,0 +1,5 @@
+pefile
+yara-python
+ssdeep
+pyyaml
+rich

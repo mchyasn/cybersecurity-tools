@@ -1,0 +1,2 @@
+filename,md5,imphash,ssdeep,yara_match
+fake.exe,07269f06dac0d91eeba35c6fbc766956,N/A,3:r4o:r4o,N/A

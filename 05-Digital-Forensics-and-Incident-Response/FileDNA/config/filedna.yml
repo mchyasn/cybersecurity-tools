@@ -1,0 +1,9 @@
+yara_rules:
+  - rules/malware.yar
+
+enable_ssdeep: true
+enable_imphash: true
+enable_yara: true
+
+output_file: output/report.json
+log_file: logs/filedna.log

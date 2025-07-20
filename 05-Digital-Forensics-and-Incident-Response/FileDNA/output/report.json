@@ -1,0 +1,10 @@
+[
+  {
+    "file": "fake.exe",
+    "imphash": null,
+    "ssdeep": "3:r4o:r4o",
+    "yara": [
+      "DummyMalware"
+    ]
+  }
+]
