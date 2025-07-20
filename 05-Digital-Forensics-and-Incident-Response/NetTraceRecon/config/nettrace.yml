@@ -1,0 +1,9 @@
+pcap_mode: true
+interface: eth0
+extract_sessions: true
+extract_dns: true
+extract_credentials: true
+extract_files: true
+parse_zeek_logs: true
+parse_suricata_alerts: true
+export_iocs: true

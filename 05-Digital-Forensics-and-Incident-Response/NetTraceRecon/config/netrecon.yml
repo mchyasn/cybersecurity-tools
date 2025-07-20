@@ -1,0 +1,3 @@
+live_interface: eth0
+ioc_db: rules/iocs.txt
+alert_rules: rules/alerts.yml

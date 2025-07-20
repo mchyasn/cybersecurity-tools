@@ -1,0 +1,3 @@
+type,value,description
+domain,suspiciousdomain.com,Possible phishing site
+string,password=,Credential leak signature

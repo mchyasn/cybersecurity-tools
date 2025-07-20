@@ -1,0 +1,5 @@
+[2025-07-20 03:10:14] [INFO] Starting analysis: traces/test.pcap
+[2025-07-20 03:10:15] [INFO] Extracted 12 sessions
+[2025-07-20 03:10:15] [INFO] DNS analysis complete, 3 suspicious domains found
+[2025-07-20 03:10:16] [WARNING] Detected possible credential string in HTTP payload
+[2025-07-20 03:10:17] [INFO] Exported IOCs to output/iocs.csv
