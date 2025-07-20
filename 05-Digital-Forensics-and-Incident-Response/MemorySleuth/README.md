@@ -113,8 +113,8 @@ Sample test verifies that invalid memory dumps are caught and handled without cr
 ---
 
 ## Screenshots
-
-Add live CLI output screenshots here to demonstrate analysis output.
+![Memory Forensics Analyzer](https://raw.githubusercontent.com/mchyasn/cybersecurity-tools/main/05-Digital-Forensics-and-Incident-Response/MemorySleuth/screenshots/0.png)
+![Memory Forensics Analyzer](https://raw.githubusercontent.com/mchyasn/cybersecurity-tools/main/05-Digital-Forensics-and-Incident-Response/MemorySleuth/screenshots/1.png)
 
 ---
 
