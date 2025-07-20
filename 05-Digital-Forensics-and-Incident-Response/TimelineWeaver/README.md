@@ -94,6 +94,9 @@ This will:
 * Add additional parsers in `parsers/`
 * Hook them into `modules/controller.py`
 * Examples: `parse_shimcache()`, `parse_usn_journal()`, `parse_registry_hives()`
+* 
+# screenshots
+![Forensic Timeline Generator](https://raw.githubusercontent.com/mchyasn/cybersecurity-tools/main/05-Digital-Forensics-and-Incident-Response/TimelineWeaver/screenshots/0.png)
 
 ---
 
