@@ -1,0 +1,10 @@
+run_volatility: true
+run_yara: true
+
+volatility_plugins:
+  - windows.pslist.PsList
+  - windows.cmdline.CmdLine
+  - windows.hashdump.HashDump
+
+yara_rules:
+  - rules/malware.yar
