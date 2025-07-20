@@ -1,0 +1,13 @@
+sources:
+  onion_sites:
+    - "http://exampleonion123.onion"
+    - "http://dump4freeonion.onion"
+  paste_clones:
+    - "https://paste.gg"
+    - "https://pastebin.pl"
+  github_search:
+    enabled: true
+
+alerting:
+  slack_webhook: ""
+  email_enabled: false
