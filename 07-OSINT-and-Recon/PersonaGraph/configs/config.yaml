@@ -1,0 +1,7 @@
+sources:
+  github: true
+  twitter: true
+  pastebin: true
+
+keywords:
+  context_words: ["cyber", "infosec", "hacker"]
