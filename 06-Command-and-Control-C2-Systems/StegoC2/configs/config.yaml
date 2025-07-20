@@ -1,0 +1,8 @@
+stego:
+  lsb_bit: 1
+  max_payload_size: 2048
+
+cdn:
+  mode: "discord"  # or "imgur"
+  token: "YOUR_DISCORD_BOT_TOKEN"
+  channel_id: "DISCORD_CHANNEL_ID"
