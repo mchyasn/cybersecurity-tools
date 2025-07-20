@@ -1,0 +1,7 @@
+c2:
+  host: "0.0.0.0"
+  port: 8080
+  mode: "staged"  # or stageless
+
+payload:
+  entry_point: "payloads/stage1.ps1"
