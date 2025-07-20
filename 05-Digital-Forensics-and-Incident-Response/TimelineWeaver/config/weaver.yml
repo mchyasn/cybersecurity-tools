@@ -1,0 +1,7 @@
+parse_prefetch: true
+parse_shimcache: true
+parse_usn: true
+parse_evtx: true
+parse_registry: true
+
+output_format: csv
