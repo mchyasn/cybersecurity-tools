@@ -1,7 +1,5 @@
 # StegoC2
 
-![Banner](screenshots/0_operator_running.png)
-
 ## Description
 
 **StegoC2** is a stealthy Command and Control (C2) framework that embeds payloads and commands into PNG images using LSB steganography. It delivers commands via image upload APIs (e.g., Discord, Imgur), simulating real-world covert communication techniques. This tool allows red teamers to simulate data-in-image covert operations while giving blue teams detection and forensic challenges.
@@ -69,8 +67,8 @@ cdn:
 
 ## Screenshots
 
-![Operator Running](screenshots/0_operator_running.png)
-![Task Queued](screenshots/1_add_task.png)
+![Steganographic C2 Server](https://raw.githubusercontent.com/mchyasn/cybersecurity-tools/main/06-Command-and-Control-C2-Systems/StegoC2/screenshots/0.png)
+![Steganographic C2 Server](https://raw.githubusercontent.com/mchyasn/cybersecurity-tools/main/06-Command-and-Control-C2-Systems/StegoC2/screenshots/1.png)
 
 ## License
 
