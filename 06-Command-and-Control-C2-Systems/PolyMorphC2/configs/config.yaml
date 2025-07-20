@@ -1,0 +1,8 @@
+loader:
+  inject_method: "remote_thread"
+  mutation: true
+  target_process: "notepad.exe"
+
+beacon:
+  interval: 10
+  jitter: 0.3
