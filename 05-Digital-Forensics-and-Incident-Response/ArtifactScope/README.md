@@ -104,6 +104,11 @@ To add more extractors:
 2. Hook into `modules/extractor_core.py`
 3. Return `[{timestamp, source, artifact}]` style dicts
 
+# screenshots
+
+![Digital Artifact Collector](https://raw.githubusercontent.com/mchyasn/cybersecurity-tools/main/05-Digital-Forensics-and-Incident-Response/ArtifactScope/screenshots/0.png)
+![Digital Artifact Collector](https://raw.githubusercontent.com/mchyasn/cybersecurity-tools/main/05-Digital-Forensics-and-Incident-Response/ArtifactScope/screenshots/1.png)
+
 ---
 
 ## Author
