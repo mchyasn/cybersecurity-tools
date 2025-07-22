@@ -18,11 +18,11 @@ This tool enables purple teams to emulate stealthy, long-term persistence tactic
 
 ## Features
 
-* ✅ Simulates SIDHistory injection to escalate privileges.
-* ✅ Demonstrates AdminSDHolder overwrites.
-* ✅ Abuses ACL permissions to maintain persistent access.
-* ✅ Supports YAML-based configuration for flexibility.
-* ✅ Works against live AD with valid credentials.
+*  Simulates SIDHistory injection to escalate privileges.
+*  Demonstrates AdminSDHolder overwrites.
+*  Abuses ACL permissions to maintain persistent access.
+*  Supports YAML-based configuration for flexibility.
+*  Works against live AD with valid credentials.
 
 ---
 
@@ -85,13 +85,6 @@ python3 main.py --config config/target.yml --method sdholder --verbose
 # ACL-based backdoor
 python3 main.py --config config/target.yml --method acl --verbose
 ```
-
----
-
-## Screenshots
-
-![ADBackdoorSim](https://raw.githubusercontent.com/mchyasn/cybersecurity-tools/main/09-Authentication-and-Access-Bypass-Simulators/ADBackdoorSim/screenshots/0.png)
-![ADBackdoorSim](https://raw.githubusercontent.com/mchyasn/cybersecurity-tools/main/09-Authentication-and-Access-Bypass-Simulators/ADBackdoorSim/screenshots/1.png)
 
 ---
 
