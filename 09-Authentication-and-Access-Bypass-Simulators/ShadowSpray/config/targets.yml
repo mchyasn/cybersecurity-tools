@@ -1,0 +1,7 @@
+targets:
+  - url: "https://login.microsoftonline.com/common/oauth2/login"
+    method: "POST"
+    login_data:
+      username: "{user}"
+      password: "{pass}"
+    fail_keyword: "incorrect"

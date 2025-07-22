@@ -1,0 +1,12 @@
+- url: "https://example.com/login"
+  method: "POST"
+  login_data:
+    username: "{user}"
+    password: "{pass}"
+  fail_keyword: "Invalid login"
+  usernames:
+    - "admin@example.com"
+    - "user1@example.com"
+  passwords:
+    - "Winter2024!"
+    - "Password123!"

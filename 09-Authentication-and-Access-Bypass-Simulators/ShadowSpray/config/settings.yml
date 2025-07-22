@@ -1,0 +1,5 @@
+settings:
+  user_agent: "Mozilla/5.0 ShadowSpray"
+  spray_interval: 5
+  mfa_detection: true
+

@@ -1,0 +1,5 @@
+target,username,result,mfa_bypass,notes
+
+admin@example.com:Winter2024!
+admin@example.com:Password123!
+user1@example.com:Winter2024!
