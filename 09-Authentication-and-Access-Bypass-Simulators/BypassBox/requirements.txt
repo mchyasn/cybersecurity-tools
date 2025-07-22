@@ -1,0 +1,4 @@
+pyjwt
+colorama
+requests
+PyYAML
