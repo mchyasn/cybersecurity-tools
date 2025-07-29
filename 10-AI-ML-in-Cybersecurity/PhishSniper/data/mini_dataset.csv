@@ -1,0 +1,7 @@
+url,label
+http://example.com,benign
+https://secure-login.net/phish,phishing
+http://192.168.0.1/admin,benign
+http://free-offers.ru/badpage,phishing
+https://accounts.google.com/login,benign
+http://malicious-domain.biz/phish.html,phishing
