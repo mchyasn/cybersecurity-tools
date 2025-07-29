@@ -51,6 +51,3 @@ MIT
 ## Author
 
 Author: mchyasn
-
-```
-```
